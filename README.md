@@ -1,8 +1,8 @@
 # form-app
 
 #To setup frontend
-1.npm install 
-2.npm run dev  // this will run the code
+1. npm install
+2. npm run dev  // this will run the code
 
 #To setup backend
 1. npm install
