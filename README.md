@@ -1,11 +1,23 @@
 # form-app
 
 #To setup frontend  
-``` cd frontend  ```
-``` npm install ```
-``` npm run dev ``` // this will run the code
+```
+ cd frontend  
+```
+```
+npm install
+```
+``` 
+npm run dev
+``` 
 
 #To setup backend
-1. ```cd backend```
-2. ```npm install```
-3. ```node server.js```  // this will run the code
+```
+cd backend
+```
+```
+npm install
+```
+```
+node server.js
+```  
