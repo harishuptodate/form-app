@@ -7,6 +7,17 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+
+
+# Ignore the .env file
+backend/.env
+
+# Ignore all files in the uploads folder but keep the folder itself
+backend/uploads/*
+!backend/uploads/.gitkeep  # Optional: Keep a placeholder file if needed
+
+
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
