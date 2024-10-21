@@ -5,10 +5,10 @@
  cd frontend  
 ```
 ```
-npx react-scripts start
+npm install
 ```
 ``` 
-npm run dev
+npx react-scripts start
 ``` 
 
 #To setup backend
